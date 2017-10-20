@@ -1,5 +1,7 @@
 # AngularHelp
-This repository provides recipes, tips and solutions to common problems that may be encountered in angular 2 &amp; 4
+This repository provides recipes, tips and solutions to common problems that may be encountered in angular 4. 
+
+If you would like to a solution to a problem or would like to learn how to create something. Kindly create an issue and add the appropriate tags (Error or Recipe).
 
 # Wanted! Contributors
 

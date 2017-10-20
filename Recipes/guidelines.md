@@ -6,7 +6,7 @@ The Recipes folders contain a simple tutorials on how to create specific functio
 
 1. Create a new directory for each new recipe. If you only have a markdown file (.md) in the directory, it should be named main.md.
 
-2. The directory name should be a very short summary of what the error is. Find a way to shorten it. 
+2. The directory name should be a very short summary of what the Tip is. Find a way to shorten it. 
 
 3. Be as brief and clear as possible in your explanation
 
